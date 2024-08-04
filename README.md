@@ -1,4 +1,9 @@
 # 🚀 Getting started with Strapi
+TODO - Приложение для работы с тикетами и ведение задач
+
+стек React + Redux. 
+бек - Strapi
+
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
